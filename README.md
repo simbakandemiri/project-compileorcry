@@ -1,15 +1,16 @@
-# CMPUT 301 W25 - Team [Team Name]
+# CMPUT 301 W25 - Team CompileOrCry
 
 ## Team Members
 
-| Name        | CCID   | GitHub Username |
-| ----------- | ------ | --------------- |
-| [Full Name] | [CCID] | [@username]     |
-| [Full Name] | [CCID] | [@username]     |
-| [Full Name] | [CCID] | [@username]     |
-| [Full Name] | [CCID] | [@username]     |
-| [Full Name] | [CCID] | [@username]     |
-| [Full Name] | [CCID] | [@username]     |
+| Name | CCID   | GitHub Username |
+| ----  | ------ | --------------- |
+| Matthew Naruzny | mnaruzny | @matthewnaruzny     |
+| Balpreet Juneja | bjuneja | [@BalpreetJ|
+| Raghav Sharma | raghav4 | [@rraghavssharma]     |
+| Jasmine Mah | jamah2 | @JasmineMah     |
+| Alastair Cottier | cottier | @cottiera     |
+| Noah Carter | noahjohn | @noahjsc     |
+| Simbarashe Kandemiri | skandemi | 
 
 ## Project Description
 
